@@ -1,0 +1,70 @@
+name,ticker,type,expenseratio,inceptiondate
+GNMA ,VFIIX,Bond - Inter-term Government,0.21%,"7.74% 
+(06/27/1980)"
+Inflation-Protected Securities ,VIPSX,Bond - Inter-term Government,0.20%,"6.03% 
+(06/29/2000)"
+Intermediate-Term Bond Index Admiral Shares ,VBILX,Bond - Inter-term Investment,0.10%,"5.66% 
+(11/12/2001)"
+Intermediate-Term Government Bond Index Admiral Shares ,VSIGX,Bond - Inter-term Investment,0.12%,"2.93% 
+(08/04/2010)"
+Intermediate-Term Treasury ,VFITX,Bond - Inter-term Government,0.20%,"6.24% 
+(10/28/1991)"
+Long-Term Bond Index ,VBLTX,Bond - Long-term Investment,0.20%,"7.89% 
+(03/01/1994)"
+Long-Term Government Bond Index Admiral Shares ,VLGSX,Bond - Long-term Investment,0.12%,"9.52% 
+(03/01/2010)"
+Long-Term Treasury ,VUSTX,Bond - Long-term Government,0.20%,"8.19% 
+(05/19/1986)"
+Mortgage-Backed Securities Index Admiral Shares ,VMBSX,Bond - Inter-term Government,0.12%,"3.37% 
+(12/03/2009)"
+Short-Term Bond Index Admiral Shares ,VBIRX,Bond - Short-term Investment,0.10%,"3.30% 
+(11/12/2001)"
+Short-Term Federal ,VSGBX,Bond - Short-term Government,0.20%,"5.27% 
+(12/31/1987)"
+Short-Term Government Bond Index Admiral Shares ,VSBSX,Bond - Short-term Investment,0.12%,"0.95% 
+(12/28/2009)"
+Short-Term Inflation-Protected Securities Index Admiral Shares ,VTAPX,Bond - Short-term Government,0.10%,"-1.01% 
+(10/16/2012)"
+Short-Term Treasury ,VFISX,Bond - Short-term Government,0.20%,"4.42% 
+(10/28/1991)"
+Total Bond Market Index Admiral Shares ,VBTLX,Bond - Inter-term Investment,0.08%,4.67(11/12/2001)
+"Intermediate-Term Corporate Bond Index Admiral Shares 
+Purchase Fee: 0.25%",VICSX,Bond - Inter-term Investment,0.12%,"6.69% 
+(03/02/2010)"
+Intermediate-Term Investment-Grade ,VFICX,Bond - Inter-term Investment,0.20%,"6.09% 
+(11/01/1993)"
+"Long-Term Corporate Bond Index Admiral Shares 
+Purchase Fee: 1.00%",VLTCX,Bond - Long-term Investment,0.12%,"9.24% 
+(01/19/2010)"
+Long-Term Investment-Grade ,VWESX,Bond - Long-term Investment,0.22%,"8.68% 
+(07/09/1973)"
+Short-Term Corporate Bond Index Admiral Shares ,VSCSX,Bond - Short-term Investment,0.12%,"2.77% 
+(11/18/2010)"
+Short-Term Investment-Grade ,VFSTX,Bond - Short-term Investment,0.20%,"6.43% 
+(10/29/1982"
+High-Yield Corporate ,VWEHX,Bond - Inter-term Low Quality,0.23%,"8.70% 
+(12/27/1978"
+California Intermediate-Term Tax-Exempt ,VCAIX,Bond - Inter-term State Muni,0.20%,"5.09% 
+(03/04/1994)"
+California Long-Term Tax-Exempt ,VCITX,Bond - Long-term State Muni,0.20%,"6.24% 
+(04/07/1986)"
+High-Yield Tax-Exempt ,VWAHX,Bond - Long-term National Muni,0.20%,"6.78% 
+(12/27/1978)"
+Intermediate-Term Tax-Exempt ,VWITX,Bond - Inter-term National Muni,0.20%,"5.64% 
+(09/01/1977)"
+Limited-Term Tax-Exempt ,VMLTX,Bond - Short-term National Muni,0.20%,"4.37% 
+(08/31/1987)"
+Long-Term Tax-Exempt ,VWLTX,Bond - Long-term National Muni,0.20%,"6.08% 
+(09/01/1977)"
+Massachusetts Tax-Exempt ,VMATX,Bond - Long-term State Muni,0.16%,"4.72% 
+(12/09/1998)"
+New Jersey Long-Term Tax-Exempt ,VNJTX,Bond - Long-term State Muni,0.20%,"6.15% 
+(02/03/1988)"
+New York Long-Term Tax-Exempt ,VNYTX,Bond - Long-term State Muni,0.20%,"5.97% 
+(04/07/1986)"
+Ohio Long-Term Tax-Exempt ,VOHIX,Bond - Long-term State Muni,0.16%,"6.12% 
+(06/18/1990)"
+Pennsylvania Long-Term Tax-Exempt ,VPAIX,Bond - Long-term State Muni,0.20%,"6.17% 
+(04/07/1986)"
+Short-Term Tax-Exempt ,VWSTX,Bond - Short-term National Muni,0.20%,"4.14% 
+(09/01/1977)"
